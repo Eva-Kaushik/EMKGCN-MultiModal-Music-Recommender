@@ -26,10 +26,6 @@ Implements a state-of-the-art multimodal music recommendation system using the M
 - PyQt5.ipynb (Do use the paths specified from your system files)
 Executed!!
 
-# Please do make sure while running any notebook/.py file if any library or framework is missing go to cmd in visual studio and use pip install (name) to install them and then rerun the code.
-# or you may google the missing libraries and use pip command from there.
-
-
 ### Required packages
 The code 1 has been tested running under Python 3.6.5, with the following packages installed (along with their dependencies):
 - pytorch == 2.0.0
