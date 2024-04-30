@@ -10,7 +10,7 @@ Implements a state-of-the-art multimodal music recommendation system using the M
 # Sequence to run the files
 1. For Multimodal-Knowledge Graph Convolutional Network 
 - Download this complete project and open in Visual Studio Code
-- Use Python == 3.6.5 
+- Connect to venv3.11 (Use Command: cd path_to_your_directory then venv3.11\Scripts\activate)
 - Run Configure_Data.ipynb 
 - Utils.ipynb 
 - EMKGCN Data Loader.ipynb
@@ -20,7 +20,6 @@ Implements a state-of-the-art multimodal music recommendation system using the M
 - EMKGCN Main (Change the Model Directory Path based on your system file path)
 
 2. Connecting with Spotify API for most updated results
-- Connect to venv3.11 (Use Command: cd path_to_your_directory then venv3.11\Scripts\activate)
 - Training_Spotipy
 - Spotipy.ipynb (This is will playlist for 7 specified emotions)
 - PyQt5.ipynb (Do use the paths specified from your system files)
