@@ -31,6 +31,4 @@ The code 1 has been tested running under Python 3.6.5, with the following packag
 - numpy == 1.14.5
 - sklearn == 0.24.2
 
-Code 2 with Virtual Environment (Python=3.8)
-
 
